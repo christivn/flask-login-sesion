@@ -1,5 +1,5 @@
-# flask-login-sesion-api[V 1.0]
-Demo de aplicación para inicio de sesión con sesiones, mediante el uso de una API
+# flask-login-sesion
+Demo de aplicación para login de usuarios con sesiones
 
 ![terminal](https://i.ibb.co/rsSgdjN/Screenshot-1.png)
 
